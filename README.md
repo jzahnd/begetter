@@ -1,4 +1,4 @@
-# Begetter
+# Begetter [![Build Status](https://travis-ci.org/jzahnd/begetter.svg?branch=master)](https://travis-ci.org/jzahnd/begetter)
 
 Begetter is a teeny tiny little gem that creates a class constant from a string based name. It is inspired by ActiveSupport's `constantize` but with-out the ActiveSupport girth.
 
