@@ -52,7 +52,7 @@ That's it!
 
 ## Why?
 
-Do we really need an entire gem to do this? After no less than 3 projects that had heavily dynamic architecture, I found myself building this functionality as a module into each one. There have to to be others who will find this moderately useful.
+Do we really need an entire gem to do this? After no less than 3 projects that had heavily dynamic architecture, I found myself building this functionality as a module into each one. There have to be others who will find this moderately useful.
 
 ## Contributing
 
